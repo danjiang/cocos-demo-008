@@ -1,0 +1,13 @@
+{
+  "physics": {
+    "defaultMaterial": {
+      "restitution": 1
+    }
+  },
+  "general": {
+    "designResolution": {
+      "width": 1280,
+      "height": 720
+    }
+  }
+}
